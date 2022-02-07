@@ -1,0 +1,27 @@
+right
+forward (9)
+left
+forward(1)
+right
+forward(2)
+left
+forward(6)
+right
+forward(2)
+left
+forward(1)
+pickUp
+backward(1)
+left
+forward(12)
+right
+forward(1)
+left
+forward(5)
+right
+forward(1)
+left
+putDown
+end
+
+
